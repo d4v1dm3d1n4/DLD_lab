@@ -2,6 +2,13 @@
 
 
 
+
+
+
+
+
+
+
 # Digital Logic Design Lab
 
 Verilog lab work for the Digital Logic Design course.
@@ -32,19 +39,21 @@ To add a video, replace a "_Coming soon_" line with one of these:
 -->
 
 ### Lab 4: 7-segment display driver
+
 https://github.com/user-attachments/assets/c3a68f1b-80c0-49fa-8fdb-7b6bf5896ba9
 
 ### Lab 5: Counters
 **Task 1: push-button counter from 0 to 9**
 
-_Coming soon_
+https://github.com/user-attachments/assets/97fa4e69-331d-4c8b-82f8-a5895f1f0f64
 
 **Task 2: automatic counter from 00 to 99**
 
-_Coming soon_
+https://github.com/user-attachments/assets/432e5ffa-94b9-423e-bf2d-82ef42b6fd23
 
 ### Lab 6: 24-hour clock
-_Coming soon_
+
+https://github.com/user-attachments/assets/a2fb6b1d-1c3f-48a6-b3fb-77d7f5b04136
 
 ### Lab 7: Settable 24-hour clock
 _Coming soon_
