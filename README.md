@@ -1,14 +1,3 @@
-
-
-
-
-
-
-
-
-
-
-
 # Digital Logic Design Lab
 
 Verilog lab work for the Digital Logic Design course.
@@ -56,7 +45,8 @@ https://github.com/user-attachments/assets/432e5ffa-94b9-423e-bf2d-82ef42b6fd23
 https://github.com/user-attachments/assets/a2fb6b1d-1c3f-48a6-b3fb-77d7f5b04136
 
 ### Lab 7: Settable 24-hour clock
-_Coming soon_
+
+https://github.com/user-attachments/assets/5fb21344-2198-4a50-9fb4-e4cfc2035343
 
 ## How to run
 1. Create a Vivado project and add the `.v` files from a lab folder.
