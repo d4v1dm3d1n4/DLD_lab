@@ -20,6 +20,31 @@ Each lab folder has its Verilog sources, any constraint (`.xdc`) files, and the 
 - **Task 1 (`up_counter_0to9`):** a push-button counter from 0 to 9, with a debounced button and a clock divider.
 - **Task 2 (`up_counter_00to99`):** a counter that runs from 00 to 99 by itself, scanning two digits.
 
+## Demo videos
+<!--
+To add a video, replace a "_Coming soon_" line with one of these:
+  - A video uploaded to GitHub: edit this file on github.com, drag the .mp4 into the editor, and paste the link it gives you on its own line.
+  - A YouTube or Google Drive video: [▶ Watch the demo](https://your-video-link)
+-->
+
+### Lab 4: 7-segment display driver
+_Coming soon_
+
+### Lab 5: Counters
+**Task 1: push-button counter from 0 to 9**
+
+_Coming soon_
+
+**Task 2: automatic counter from 00 to 99**
+
+_Coming soon_
+
+### Lab 6: 24-hour clock
+_Coming soon_
+
+### Lab 7: Settable 24-hour clock
+_Coming soon_
+
 ## How to run
 1. Create a Vivado project and add the `.v` files from a lab folder.
 2. **Simulation (Labs 1–2):** set the `*_sim.v` file as the simulation top and run Behavioral Simulation.
